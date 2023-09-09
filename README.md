@@ -9,4 +9,4 @@ This project has a number of solutions that are written in vanilla Javascript to
 
 ## Structure of the project
 
-The project has a number of folders.
+The project has a number of folders. Each folder is named after a chapter in the book.
