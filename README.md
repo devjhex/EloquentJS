@@ -10,3 +10,4 @@ This project has a number of solutions that are written in vanilla Javascript to
 ## Structure of the project
 
 The project has a number of folders. Each folder is named after a chapter in the book. Each of the folders contain numerous files according to the number of exercises in the chapter and each file is named after an exercise title in the book.
+The exercise files have comments showing what's going on in the code.
